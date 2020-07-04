@@ -1,0 +1,14 @@
+Warning (10273): Verilog HDL warning at Multiplier_Slave.v(65): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at Multiplier.v(58): extended using "x" or "z"
+Warning (10268): Verilog HDL information at Multiplier.v(79): always construct contains both blocking and non-blocking assignments
+Warning (10273): Verilog HDL warning at MATRIX_Master.v(56): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at MATRIX_Master.v(107): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at MATRIX_Master.v(108): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at MATRIX_Master.v(125): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at ADDER.v(70): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at _8_to_1_MUX.v(16): extended using "x" or "z"
+Warning (10268): Verilog HDL information at _8_to_1_MUX.v(6): always construct contains both blocking and non-blocking assignments
+Warning (10273): Verilog HDL warning at _3_to_8_decoder.v(15): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at ram.v(28): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at mux5_32bit.v(6): extended using "x" or "z"
+Warning (10268): Verilog HDL information at bus_arbit.v(15): always construct contains both blocking and non-blocking assignments
